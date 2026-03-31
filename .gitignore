@@ -1,0 +1,3 @@
+# ignore exercise solution code
+*/exercises/*.c
+*/exercises/*.py
